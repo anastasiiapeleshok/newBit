@@ -30,11 +30,9 @@
         </dataFields>
     </datalists>
     <datalists entityCode="6" entityName="Datalist1" version="35" name="Datalist1" description="" created="2025-02-07T10:56:58.435+02:00" createdBy="admin" lastUpdated="2025-02-07T10:56:58.435+02:00" lastUpdatedBy="admin" id="Datalist1"/>
-    <datalists entityCode="7" entityName="Datalist2" version="38" name="Datalist2" description="" created="2025-02-07T10:57:00.357+02:00" createdBy="admin" lastUpdated="2025-02-07T10:57:00.357+02:00" lastUpdatedBy="admin" id="Datalist2"/>
     <views allColumns="true" default="true" modelView="true" entityName="newBitClone" name="newBitClone" description="Default view for list newBit" id="newBitClone"/>
     <views allColumns="true" default="true" entityName="Stock Fundamental" name="Stock Fundamental" description="Default view for list Stock Fundamental" id="Stock Fundamental"/>
     <views allColumns="true" default="true" entityName="Datalist1" name="Datalist1" description="Default view for list Datalist1" id="Datalist1"/>
-    <views allColumns="true" default="true" entityName="Datalist2" name="Datalist2" description="Default view for list Datalist2" id="Datalist2"/>
     <views allColumns="true" default="true" entityName="Price Target" name="Price Target" description="Default view for list Price Target" id="Price Target"/>
     <connectors layoutDetected="true" entityName="Stock Fundamental" version="25" name="Stock Fundamental" created="2025-02-07T10:21:07.355+02:00" createdBy="admin" lastUpdated="2025-02-07T10:21:07.355+02:00" lastUpdatedBy="admin" id="Stock Fundamental">
         <connectorFields columnIndex="0" ignore="false" mapField="Symbol" type="text" rawType="String" allowNull="true" name="Symbol" id="Symbol"/>
